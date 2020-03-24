@@ -1,0 +1,23 @@
+
+.container {
+  background-color: #222E50;
+  color: #ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.jumbotron {
+  background-color: #145c9E !important;
+}
+.card-header {
+  background-color: #BCD8c1 !important; 
+  color: #ffffff !important;
+}
+.form-group {
+  background: #145C9E;
+  color: #ffffff
+}
+#add-train-btn {
+  color: #ffffff;
+  background: #145C9E;
+}
+
+
